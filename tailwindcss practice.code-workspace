@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "tailwindcss practice",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../tailwind-landing-page/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwindcss practice"
+	}
+}
